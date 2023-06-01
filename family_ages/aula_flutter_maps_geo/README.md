@@ -1,6 +1,6 @@
-# family_ages
+# aula_flutter_maps_geo
 
-Tool for you to record and calculate the ages of your family and friends.
+A new Flutter application.
 
 ## Getting Started
 

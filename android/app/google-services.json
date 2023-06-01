@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "227597930004",
+    "firebase_url": "https://family-ages.firebaseio.com",
+    "project_id": "family-ages",
+    "storage_bucket": "family-ages.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227597930004:android:e77b2663a89aa2fbe42101",
+        "android_client_info": {
+          "package_name": "com.duduapps.family_ages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227597930004-4nu6hqm6mbugm62cfv2q8864u7r8li5j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.duduapps.family_ages",
+            "certificate_hash": "0a78fbc931ab80cd59087e205d4027c834b3b388"
+          }
+        },
+        {
+          "client_id": "227597930004-84bko4ldpr9jd134bnl36ad4isdf29lk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYsIeFQ_uZjGLZREb107v4-SAUz6bV8_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227597930004-84bko4ldpr9jd134bnl36ad4isdf29lk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
